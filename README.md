@@ -16,7 +16,7 @@ the interface.
 
 ## 🛠️ Technologies Used
 
-**Python** • **OpenCV** • **MediaPipe** • **Computer Vision** • **Hand Tracking** • **Tkinter**
+**Python** • **OpenCV** • **MediaPipe** • **Computer Vision** • **Hand Tracking** 
 
 ## 🔄 How It Works
 
