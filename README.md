@@ -45,6 +45,3 @@ can be used to create a touchless human-computer interaction system.
 - Real ATM hardware integration
 - Accessibility-focused interface
 
-## 👨‍💻 Author
-
-**Adheeba Salam**
