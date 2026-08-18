@@ -5,6 +5,22 @@ A computer vision-based ATM interface that enables users to interact
 with ATM functions using hand gestures without physically touching
 the interface.
 
+## 📌 Problem Statement
+
+Traditional ATMs require users to physically touch shared screens and
+keypads. During the COVID-19 pandemic, frequently touched public surfaces
+raised concerns about the potential transmission of infectious diseases.
+
+TouchATM explores a touchless alternative by using real-time hand tracking
+and gesture recognition, allowing users to interact with an ATM interface
+without direct physical contact.
+
+## 💡 Proposed Solution
+
+The system uses a webcam to detect and track the user's hand in real time.
+Recognized hand gestures are mapped to ATM operations, allowing users to
+navigate the interface without touching the screen or keypad.
+
 ## ✨ Features
 
 - Real-time hand tracking
